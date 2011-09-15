@@ -1,7 +1,18 @@
 
-NADEZHDA 
-Graphical Freebsd kernel configurator
- 
+DESCRIPTION
+-----------
+Nadezhda is python script provides gui for create your custom freebsd kernel configs. Now gui is only QT based on PySide (http://www.pyside.org).
+
+
+REQUIREMENTS
+------------
+python >= 2.6
+pyside
+qt
+
+AUTORS
+------------
 Alexey Golodov, 2011
 New BSD License
+
 
